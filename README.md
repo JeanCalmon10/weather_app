@@ -1,6 +1,6 @@
 # Weather App
 
-
+![Weather App Screenshot](weather.png)
 
 ## Descrição
 O Weather App é uma aplicação web desenvolvida em Python com o framework Django. Ele permite aos usuários visualizarem o clima atual de várias cidades em todo o mundo. Os dados do clima são obtidos através da API do OpenWeatherMap.
